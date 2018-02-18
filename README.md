@@ -1,3 +1,3 @@
 # hello-world
 New repository
-Hi there, IM new to  GitHub. Nice to meet you!
+Hi there, I am new to  GitHub. Nice to meet you!
